@@ -1,3 +1,3 @@
 # HyperLogLog
 
-Implemented HyperLOgLOg to understand how it's works.
+Implemented HyperLogLog to understand how it's works.
